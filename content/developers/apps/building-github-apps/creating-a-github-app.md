@@ -57,7 +57,7 @@ topics:
 1. If additional setup is required after installation, add a "Setup URL" to redirect users to after they install your app.
 ![Field for the setup URL of your GitHub App ](/assets/images/github-apps/github_apps_setup_url.png)
 
-  {% note %}
+  {% note %}.  
 
   **Note:** When you select **Request user authorization (OAuth) during installation** in the previous step, this field becomes unavailable and people will be redirected to the "User authorization callback URL" after installing the app.
 
