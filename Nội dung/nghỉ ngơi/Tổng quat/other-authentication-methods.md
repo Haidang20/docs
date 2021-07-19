@@ -138,7 +138,7 @@ $ curl --request POST \
 
 [curl]: http://curl.haxx.se/
 [oauth-auth]: /rest#authentication
-[personal-access-tokens]: /articles/creating-a-personal-access-token-for-the-command-line
+[personal-access-tokens]: /garticles/creating-a-personal-access-token-for-the-command-line
 [saml-sso]: /articles/about-identity-and-access-management-with-saml-single-sign-on
 [saml-sso-tokens]: https://github.com/settings/tokens
 [allowlist]: /github/authenticating-to-github/authorizing-a-personal-access-token-for-use-with-saml-single-sign-on
