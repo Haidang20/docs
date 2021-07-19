@@ -64,7 +64,7 @@ To keep your credentials secure, we recommend you save your personal access toke
 {% endif %}
 
 {% ifversion ghes or ghae %}
-{% ifversion ghes > 2.22 %}
+{% ifversion ghes > 2.2 %}
 If your instance has subdomain isolation enabled:
 {% endif %}
 {% raw %}
