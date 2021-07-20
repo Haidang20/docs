@@ -20,6 +20,4 @@ children:
   - /refreshing-user-to-server-access-tokens
   - /creating-a-github-app-from-a-manifest
   - /creating-a-github-app-using-url-parameters
-  - /creating-a-custom-badge-for-your-github-app
----
-
+  - /creating-a-custom-badge-for-your-github-apps
